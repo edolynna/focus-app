@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/focus-app/static/css/main.22f9de93.css",
+    "main.js": "/focus-app/static/js/main.d8258f3c.js",
+    "static/media/playButton.svg": "/focus-app/static/media/playButton.75e8f2f20321f7a63560fd6be54c44ca.svg",
+    "static/media/logo.png": "/focus-app/static/media/logo.d92584abb1e9fe5d748d.png",
+    "index.html": "/focus-app/index.html",
+    "main.22f9de93.css.map": "/focus-app/static/css/main.22f9de93.css.map",
+    "main.d8258f3c.js.map": "/focus-app/static/js/main.d8258f3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22f9de93.css",
+    "static/js/main.d8258f3c.js"
+  ]
+}
