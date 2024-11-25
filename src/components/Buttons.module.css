@@ -1,0 +1,38 @@
+.timerButton {
+    bottom: 180px;
+    position: absolute;
+}
+  
+.timerButton button:first-child {
+    margin-right: 28px;
+}
+  
+button {
+    padding: 0;
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    color: var(--white);
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+}
+
+.backButton {
+    margin: 90px auto 0;
+    padding: 0;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    line-height: 22px;
+    font-family: "Inter", sans-serif;
+}
+  
+.backButton img {
+    width: 32px;
+    height: 32px;
+    margin-right: 16px;
+}

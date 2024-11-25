@@ -1,0 +1,16 @@
+.timer {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: var(--white)
+}
+  
+.timer .CircularProgressbar {
+    width: 360px !important;
+    height: 360px;
+    font-weight: 200;
+    user-select: none;
+}
